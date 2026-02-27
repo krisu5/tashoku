@@ -1,0 +1,13 @@
+# Normal: https://coolors.co/2f2f37-f74040-7fc71a-fdb50d-1281e2-c74ce6-3ecae0-e0e0e0
+# Bright: https://coolors.co/50505e-f67979-a7df59-fdd168-4da9f9-d985ee-7eddec-f2f2f2
+
+[Scheme]
+Name=Tashoku Contrast
+ColorCursor=#e4e4e5
+ColorForeground=#e4e4e5
+ColorBackground=#0f0f10
+TabActivityColor=#fdb50d
+#            Black   Red     Green   Yellow  Blue    Magenta Cyan    White   Br Blac Br Red  Br Gree Br Yell Br Blue Br Mage Br Cyan Br Whit
+ColorPalette=#2f2f37;#f74040;#7fc71a;#fdb50d;#1281e2;#c74ce6;#3ecae0;#e0e0e0;#50505e;#f67979;#a7df59;#fdd168;#4da9f9;#d985ee;#7eddec;#f2f2f2
+ColorBold=#ffffff
+ColorBoldUseDefault=FALSE
