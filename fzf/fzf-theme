@@ -1,0 +1,9 @@
+export FZF_DEFAULT_OPTS=$FZF_DEFAULT_OPTS'
+  --color=fg:#d7d4e2,fg+:#eeeeee,bg:#222226,bg+:#2F2F37
+  --color=hl:#7FC71A,hl+:#9CDB43,info:#D474EC,marker:#F03D3D
+  --color=prompt:#369ef8,spinner:#D474EC,pointer:#FDB50D,header:#7c7c86
+  --color=gutter:#222226,border:#50505E,label:#7c7c86,query:#e4e4e5
+  --border="rounded" --border-label="" --preview-window="border-rounded" --prompt="▶ "
+  --marker="✚" --pointer="●" --separator="─" --scrollbar="┃"'
+  
+# Configure the theme on fzf Theme Generator: https://vitormv.github.io/fzf-themes#eyJib3JkZXJTdHlsZSI6InJvdW5kZWQiLCJib3JkZXJMYWJlbCI6IiIsImJvcmRlckxhYmVsUG9zaXRpb24iOjAsInByZXZpZXdCb3JkZXJTdHlsZSI6InJvdW5kZWQiLCJwYWRkaW5nIjoiMCIsIm1hcmdpbiI6IjAiLCJwcm9tcHQiOiLilrYgIiwibWFya2VyIjoi4pyaIiwicG9pbnRlciI6IuKXjyIsInNlcGFyYXRvciI6IuKUgCIsInNjcm9sbGJhciI6IuKUgyIsImxheW91dCI6ImRlZmF1bHQiLCJpbmZvIjoiZGVmYXVsdCIsImNvbG9ycyI6ImZnOiNkN2Q0ZTIsZmcrOiNlZWVlZWUsYmc6IzIyMjIyNixiZys6IzJGMkYzNyxobDojN0ZDNzFBLGhsKzojOUNEQjQzLGluZm86I0Q0NzRFQyxtYXJrZXI6I0YwM0QzRCxwcm9tcHQ6IzM2OWVmOCxzcGlubmVyOiNENDc0RUMscG9pbnRlcjojRkRCNTBELGhlYWRlcjojN2M3Yzg2LGd1dHRlcjojMjIyMjI2LGJvcmRlcjojNTA1MDVFLGxhYmVsOiM3YzdjODYscXVlcnk6I2U0ZTRlNSJ9
