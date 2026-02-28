@@ -1,5 +1,5 @@
-# Normal: https://coolors.co/2f2f37-f74040-7fc71a-fdb50d-1281e2-c74ce6-3ecae0-e0e0e0
-# Bright: https://coolors.co/50505e-f46666-9cdb43-fdca53-369ef8-d474ec-6dd9e9-f0f0f0
+# Normal: https://coolors.co/2f2f37-f74040-7fc71a-fdb50d-1281e2-c74ce6-3ecae0-d7d4e2
+# Bright: https://coolors.co/50505e-f46666-9cdb43-fdca53-369ef8-d474ec-6dd9e9-eeeeee
 
 [Scheme]
 Name=Tashoku
@@ -8,6 +8,6 @@ ColorForeground=#e4e4e5
 ColorBackground=#222226
 TabActivityColor=#fdb50d
 #            Black   Red     Green   Yellow  Blue    Magenta Cyan    White   Br Blac Br Red  Br Gree Br Yell Br Blue Br Mage Br Cyan Br Whit
-ColorPalette=#2f2f37;#f74040;#7fc71a;#fdb50d;#1281e2;#c74ce6;#3ecae0;#e0e0e0;#50505e;#f46666;#9cdb43;#fdca53;#369ef8;#d474ec;#6dd9e9;#f0f0f0
+ColorPalette=#2f2f37;#f74040;#7fc71a;#fdb50d;#1281e2;#c74ce6;#3ecae0;#d7d4e2;#50505e;#f46666;#9cdb43;#fdca53;#369ef8;#d474ec;#6dd9e9;#eeeeee
 ColorBold=#ffffff
 ColorBoldUseDefault=FALSE
