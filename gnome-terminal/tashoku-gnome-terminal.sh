@@ -1,10 +1,12 @@
 #!/usr/bin/env bash
-# Base16 - Gnome Terminal color scheme install script
 
-# Credit to Terminal.sexy for script generation.
+# Tashoku (多色)
+# Color scheme installation script for Gnome Terminal
+
+# Thanks for Terminal.sexy for script generation
 
 [[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Tashoku"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="tashoku"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="tashoku-color-scheme"
 [[ -z "$DCONF" ]] && DCONF=dconf
 [[ -z "$UUIDGEN" ]] && UUIDGEN=uuidgen
 
@@ -60,10 +62,10 @@ if which "$DCONF" > /dev/null 2>&1; then
 
         # update profile values with theme options
         dset visible-name "'$PROFILE_NAME'"
-        dset palette "['#2f2f37', '#f74040', '#7fc71a', '#fdb50d', '#1281e2', '#c74ce6', '#3ecae0', '#d7d4e2', '#50505e', '#f46666', '#9cdb43', '#fdca53', '#369ef8', '#d474ec', '#6dd9e9', '#eeeeee']"
+        dset palette "['#2f2f37', '#f74040', '#7fc71a', '#fdb50d', '#1281e2', '#c74ce6', '#3ecae0', '#e0dee8', '#50505e', '#f46666', '#9cdb43', '#fdca53', '#369ef8', '#d474ec', '#6dd9e9', '#eeeeee']"
         dset background-color "'#222226'"
-        dset foreground-color "'#e4e4e5'"
-        dset bold-color "'#e4e4e5'"
+        dset foreground-color "'#eeeeee'"
+        dset bold-color "'#eeeeee'"
         dset bold-color-same-as-fg "true"
         dset use-theme-colors "false"
         dset use-theme-background "false"
@@ -110,10 +112,10 @@ glist_append() {
 glist_append string /apps/gnome-terminal/global/profile_list "$PROFILE_SLUG"
 
 gset string visible_name "$PROFILE_NAME"
-gset string palette "#2f2f37:#f74040:#7fc71a:#fdb50d:#1281e2:#c74ce6:#3ecae0:#d7d4e2:#50505e:#f46666:#9cdb43:#fdca53:#369ef8:#d474ec:#6dd9e9:#eeeeee"
+gset string palette "#2f2f37:#f74040:#7fc71a:#fdb50d:#1281e2:#c74ce6:#3ecae0:#e0dee8:#50505e:#f46666:#9cdb43:#fdca53:#369ef8:#d474ec:#6dd9e9:#eeeeee"
 gset string background_color "#222226"
-gset string foreground_color "#e4e4e5"
-gset string bold_color "#e4e4e5"
+gset string foreground_color "#eeeeee"
+gset string bold_color "#eeeeee"
 gset bool   bold_color_same_as_fg "true"
 gset bool   use_theme_colors "false"
 gset bool   use_theme_background "false"
