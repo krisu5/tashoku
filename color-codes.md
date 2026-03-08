@@ -1,4 +1,4 @@
-# Tashoku — Color codes
+# Tashoku (多色) — color codes
 
 ## Default palette
 
@@ -62,8 +62,11 @@
 
 ## Terminal element colors
 
-| Terminal element    | Hex         | RGB             | HSL             |
-| ------------------- | ----------- | --------------- | --------------- |
-| Background          | #222226     | 34, 34, 38      | 240, 6%, 14%    |
-| Foreground          | #eeeeee     | 238, 238, 238   | 0, 0%, 93%      |
-| Cursor              | #eeeeee     | 238, 238, 238   | 0, 0%, 93%      |
+| Terminal element        | Hex         | RGB             | HSL             |
+| ----------------------- | ----------- | --------------- | --------------- |
+| Background              | #222226     | 34, 34, 38      | 240, 6%, 14%    |
+| Foreground              | #eeeeee     | 238, 238, 238   | 0, 0%, 93%      |
+| Cursor                  | #eeeeee     | 238, 238, 238   | 0, 0%, 93%      |
+| Tab activity <b>*</b>   | #fdb50d     | 253, 181, 13    | 42, 98%, 52%    |
+
+<b>*</b> *Only in xfce4-terminal*
