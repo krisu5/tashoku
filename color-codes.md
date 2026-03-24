@@ -24,10 +24,10 @@
 ## Expanded palette
 
 > [!NOTE]
-> - 400 = *"regular"* ANSI color
-> - 300 = *"bright"* ANSI color
+> **400** = *"regular"* ANSI color<br>
+> **300** = *"bright"* ANSI color
 
-| Color name                                                                                   | Hex       | RGB             | HSL            |
+| Color name                                                                                   | Hex       | RGB             | HSL             |
 | -------------------------------------------------------------------------------------------- | --------- | --------------- | --------------- |
 | <img src='https://readme-swatches.vercel.app/2f2f37?style=circle&size=15&b=0'/> Black, 400   | `#2f2f37` | `47, 47, 55`    | `240, 8%, 20%`  |
 | <img src='https://readme-swatches.vercel.app/50505e?style=circle&size=15&b=0'/> Black, 300   | `#50505e` | `80, 80, 94`    | `240, 8%, 34%`  |
@@ -71,4 +71,4 @@
 | <img src='https://readme-swatches.vercel.app/eeeeee?style=circle&size=15&b=0'/> Cursor         | `#eeeeee` | `238, 238, 238` | `0, 0%, 93%`   |
 | <img src='https://readme-swatches.vercel.app/fdb50d?style=circle&size=15&b=0'/> Tab activity * | `#fdb50d` | `253, 181, 13`  | `42, 98%, 52%` |
 
-<b>*</b> *Only in xfce4-terminal*
+<b>*</b> *Only on xfce4-terminal*
