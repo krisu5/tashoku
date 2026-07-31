@@ -80,16 +80,18 @@
 
 ### With unique color
 
-| Terminal element                                                                               | Hex       | RGB             | HSL              |
-| ---------------------------------------------------------------------------------------------- | --------- | --------------- | ---------------- |
-| <img src='https://readme-swatches.vercel.app/222226?style=circle&size=15&b=0'/> Background     | `#222226` | `34, 34, 38`    | `240 5.6% 14.1%` |
+| Terminal element                                                                                | Hex       | RGB             | HSL              |
+| ----------------------------------------------------------------------------------------------- | --------- | --------------- | ---------------- |
+| <img src='https://readme-swatches.vercel.app/222226?style=circle&size=15&b=0'/> Background *    | `#222226` | `34, 34, 38`    | `240 5.6% 14.1%` |
+
+<b>*</b> *Linux Mint's window header UI color since v22.2*
 
 ### From expanded palette
 
-| Terminal element                                                                               | Color token |
-| ---------------------------------------------------------------------------------------------- | ----------- |
-| <img src='https://readme-swatches.vercel.app/eeeeee?style=circle&size=15&b=0'/> Foreground     | White-300   |
-| <img src='https://readme-swatches.vercel.app/eeeeee?style=circle&size=15&b=0'/> Cursor         | White-300   |
-| <img src='https://readme-swatches.vercel.app/fdb50d?style=circle&size=15&b=0'/> Tab activity * | Yellow-400  |
+| Terminal element                                                                                | Color token |
+| ----------------------------------------------------------------------------------------------- | ----------- |
+| <img src='https://readme-swatches.vercel.app/eeeeee?style=circle&size=15&b=0'/> Foreground      | White-300   |
+| <img src='https://readme-swatches.vercel.app/eeeeee?style=circle&size=15&b=0'/> Cursor          | White-300   |
+| <img src='https://readme-swatches.vercel.app/fdb50d?style=circle&size=15&b=0'/> Tab activity ** | Yellow-400  |
 
-<b>*</b> *Only on xfce4-terminal theme*
+<b>**</b> *Only on xfce4-terminal theme*
