@@ -1,0 +1,83 @@
+# Tashoku (多色)
+# https://github.com/krisu5/tashoku
+
+# Used "tokyo-storm" btop++ theme as base <https://github.com/aristocratos/btop/blob/main/themes/tokyo-storm.theme>
+
+# Main bg
+theme[main_bg]="#222226"
+
+# Main text color
+theme[main_fg]="#eeeeee"
+
+# Title color for boxes
+theme[title]="#eeeeee"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#3ecae0"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#2f2f37"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#eeeeee"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#50505e"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#3ecae0"
+
+# Cpu box outline color
+theme[cpu_box]="#50505e"
+
+# Memory/disks box outline color
+theme[mem_box]="#50505e"
+
+# Net up/down box outline color
+theme[net_box]="#50505e"
+
+# Processes box outline color
+theme[proc_box]="#50505e"
+
+# Box divider line and small boxes line color
+theme[div_line]="#50505e"
+
+# Temperature graph colors
+theme[temp_start]="#9cdb43"
+theme[temp_mid]="#fdca53"
+theme[temp_end]="#f46666"
+
+# CPU graph colors
+theme[cpu_start]="#9cdb43"
+theme[cpu_mid]="#fdca53"
+theme[cpu_end]="#f46666"
+
+# Mem/Disk free meter
+theme[free_start]="#9cdb43"
+theme[free_mid]="#fdca53"
+theme[free_end]="#f46666"
+
+# Mem/Disk cached meter
+theme[cached_start]="#9cdb43"
+theme[cached_mid]="#fdca53"
+theme[cached_end]="#f46666"
+
+# Mem/Disk available meter
+theme[available_start]="#9cdb43"
+theme[available_mid]="#fdca53"
+theme[available_end]="#f46666"
+
+# Mem/Disk used meter
+theme[used_start]="#9cdb43"
+theme[used_mid]="#fdca53"
+theme[used_end]="#f46666"
+
+# Download graph colors
+theme[download_start]="#9cdb43"
+theme[download_mid]="#fdca53"
+theme[download_end]="#f46666"
+
+# Upload graph colors
+theme[upload_start]="#9cdb43"
+theme[upload_mid]="#fdca53"
+theme[upload_end]="#f46666"
